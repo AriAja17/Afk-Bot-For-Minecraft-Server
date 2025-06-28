@@ -1,6 +1,6 @@
 # Minecraft AFK Bot
 
-Welcome to the documentation for the **Minecraft AFK Bot**, a lightweight bot built with [Mineflayer](https://github.com/PrismarineJS/mineflayer) for Minecraft 1.21.4. This bot is designed to prevent players from being kicked due to inactivity on cracked (offline-mode) Minecraft servers, such as those hosted on Aternos. It supports anti-AFK actions (jumping and sneaking), automatic reconnection, chat logging, and optional features like periodic chat messages and movement to specific coordinates.
+Welcome to the documentation for the **Minecraft AFK Bot**, a lightweight bot built with [Mineflayer](https://github.com/PrismarineJS/mineflayer) for Minecraft 1.21.x This bot is designed to prevent players from being kicked due to inactivity on cracked Minecraft servers, such as those hosted on Aternos. It supports anti-AFK actions, automatic reconnection, chat logging, and optional features like periodic chat messages.
 
 The bot is optimized for servers using the [AuthMeReloaded](https://www.spigotmc.org/resources/authmereloaded.6269/) plugin, allowing the bot to bypass authentication via the `unrestrictedNames` setting.
 
@@ -10,7 +10,7 @@ The bot is optimized for servers using the [AuthMeReloaded](https://www.spigotmc
 - **Chat Logging**: Logs all in-game chat messages for debugging.
 - **Chat Messages**: Optionally sends periodic chat messages (e.g., "Selamat Bermain").
 - **Coordinate Movement**: Optionally moves to specified coordinates using pathfinding.
-- **AuthMe Bypass**: Skips authentication for the bot's username (e.g., `OrangGila`).
+- **AuthMe Bypass**: Skips authentication for the bot's username (e.g., `Afk_Bot`).
 
 ## Getting Started
 To get started, follow the sections below:
