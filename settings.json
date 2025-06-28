@@ -5,8 +5,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.ip.server",
-    "port": "7777",
+    "ip": "your-server-ip",
+    "port": 7777,
     "version": "1.21.4"
   },
   "position": {
