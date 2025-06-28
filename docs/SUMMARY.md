@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
-* [Usage](usage.md)
 * [Configuration](configuration.md)
+* [Usage](usage.md)
 * [Troubleshooting](troubleshooting.md)
 * [Contributing](contributing.md)
