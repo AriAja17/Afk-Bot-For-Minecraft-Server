@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "OrangGila",
+    "username": "Afk_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OmagaKW.aternos.me",
-    "port": 46001,
+    "ip": "your.ip.server",
+    "port": "7777",
     "version": "1.21.4"
   },
   "position": {
