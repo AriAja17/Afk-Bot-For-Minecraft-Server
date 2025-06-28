@@ -51,6 +51,5 @@ This section provides solutions to common issues when running the Minecraft AFK 
 
 ## Other Issues
 
-* **Players Cannot Log In**: Players may need to re-register with `/register <password> <password>` as AuthMe databases are not compatible with other plugins like LoginSecurity.
 * **Bot Not Performing Anti-AFK**: Ensure `anti-afk.enabled` is `true` in `settings.json`.
 * **Contact**: Open an issue on the [GitHub repository](https://github.com/your-username/minecraft-afk-bot) for further assistance.
