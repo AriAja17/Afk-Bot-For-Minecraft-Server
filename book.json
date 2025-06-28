@@ -1,0 +1,9 @@
+{
+       "title": "Minecraft AFK Bot Documentation",
+       "description": "Documentation for a Minecraft AFK bot with AuthMeReloaded support",
+       "root": "./docs",
+       "structure": {
+         "readme": "README.md",
+         "summary": "SUMMARY.md"
+       }
+     }
