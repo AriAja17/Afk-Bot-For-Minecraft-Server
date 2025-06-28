@@ -20,4 +20,4 @@ To get started, follow the sections below:
 - [Troubleshooting](troubleshooting.md): Resolve common issues.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AriAja17/Afk-Bot-For-Minecraft-Server/blob/main/LICENSE) file for details.
