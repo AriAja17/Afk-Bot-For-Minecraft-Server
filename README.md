@@ -27,7 +27,7 @@ A lightweight **Minecraft AFK Bot** built with [Mineflayer](https://github.com/P
    ```
 
 ## Documentation
-Full setup and usage instructions are available at [GitBook](https://AriAja17.gitbook.io/Afk-Bot-For-Minecraft-Server) or in the [docs/](docs/README.md) folder.
+Full setup and usage instructions are available at [Here](https://equinox-interactive.gitbook.io/wiki-for-afk-bot-minecraft-1.21.4/) or in the [docs/](docs/README.md) folder.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
