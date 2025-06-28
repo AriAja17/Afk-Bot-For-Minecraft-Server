@@ -1,38 +1,33 @@
-# Afk Bot
-<p align="center"> 
-    <img src="https://img.shields.io/github/issues/urfate/afk-bot">
-    <img src="https://img.shields.io/github/forks/urfate/afk-bot">
-    <img src="https://img.shields.io/github/stars/urfate/afk-bot">
-    <img src="https://img.shields.io/github/license/urfate/afk-bot">
-</p>
+# Minecraft AFK Bot
 
-<p align="center">
-    MINECRAFT AFK BOT BY LEMGERR
-</p>
-
-<p align="center">
-    Anti-AFK, Auto-Auth, Microsoft/Offline accounts support.
-</p>
-
-## Installation
-
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
- 2. Download & install [Node.JS](https://nodejs.org/en/download/)
- 3. Run `npm install` command in bot directory.
- 
- ## Usage
- 
- 1. Configure bot in `settings.json` file. [Bot configuration is explained in our wiki](https://urfate.gitbook.io/afk-bot/bot-configuration)
- 2. Start bot with `node .` command.
+A lightweight **Minecraft AFK Bot** built with [Mineflayer](https://github.com/PrismarineJS/mineflayer) for Minecraft 1.21.x This bot prevents idle kicks on cracked servers by performing anti-AFK actions. It supports automatic reconnection, chat logging, and optional features like sending periodic messages. The bot is optimized for servers using [AuthMeReloaded](https://www.spigotmc.org/resources/authmereloaded.6269/), bypassing authentication via `unrestrictedNames`.
 
 ## Features
+- **Anti-AFK**: Jumps and optionally sneaks to avoid idle kicks.
+- **Auto-Reconnect**: Reconnects after disconnection with configurable delay.
+- **Chat Logging**: Logs in-game chat for debugging.
+- **Optional**: Sends periodic messages or moves to specific coordinates.
+- **AuthMe Bypass**: Skips login for the bot's username (e.g., `Afk_Bot`).
+- **Version Support**: Works with servers running 1.8–1.21.4 using [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/), [ViaBackwards](https://www.spigotmc.org/resources/viabackwards.27448/), or [ViaRewind](https://www.spigotmc.org/resources/viarewind.521/).
 
- - Anti-AFK Kick Module
- - Move to target block after join
- - Mojang/Microsoft Account support
- - Chat log
- - Chat messages Module
- - Auto reconnect
- - Authentication with Login Security [HERE](https://www.spigotmc.org/resources/authmereloaded.6269/) (Authentication Plugin For Cracked Servers)
- - Supported server versions: `1.8 - 1.21.x`
+## Quick Start
+1. Clone the repository:
+   ```
+   git clone https://github.com/AriAja17/Afk-Bot-For-Minecraft-Server.git
+   cd Afk Bot Minecraft 1.21.4
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Configure `settings.json` and AuthMeReloaded (see [Configuration](docs/configuration.md)).
+4. Run the bot:
+   ```
+   node index.js
+   ```
 
+## Documentation
+Full setup and usage instructions are available at [GitBook](https://AriAja17.gitbook.io/Afk-Bot-For-Minecraft-Server) or in the [docs/](docs/README.md) folder.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
