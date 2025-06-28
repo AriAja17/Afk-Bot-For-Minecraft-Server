@@ -1,0 +1,41 @@
+{
+  "bot-account": {
+    "username": "OrangGila",
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "OmagaKW.aternos.me",
+    "port": 46001,
+    "version": "1.21.4"
+  },
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "afkbot"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+      "messages": [
+        "Selamat Bermain",
+        "Halo Aku Bot",
+        "Abaikan Pesan Ini"
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 1
+  }
+}
