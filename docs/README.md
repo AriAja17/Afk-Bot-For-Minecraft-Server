@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the documentation for the **Minecraft AFK Bot**, a lightweight bot built with [Mineflayer](https://github.com/PrismarineJS/mineflayer) for Minecraft 1.21.x This bot is designed to prevent players from being kicked due to inactivity on cracked Minecraft servers, such as those hosted on Aternos. It supports anti-AFK actions, automatic reconnection, chat logging, and optional features like periodic chat messages.
+Welcome to the documentation for the **Minecraft AFK Bot**, a lightweight bot built with [Mineflayer](https://github.com/PrismarineJS/mineflayer) for Minecraft 1.21.x This bot is designed to prevent players from being kicked due to inactivity on cracked Minecraft servers. It supports anti-AFK actions, automatic reconnection, chat logging, and optional features like periodic chat messages.
 
 The bot is optimized for servers using the [AuthMeReloaded](https://www.spigotmc.org/resources/authmereloaded.6269/) plugin, allowing the bot to bypass authentication via the `unrestrictedNames` setting.
 
